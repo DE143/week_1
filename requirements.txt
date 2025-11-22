@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+jupyterlab
+nltk
+textblob
+scikit-learn
+ta-lib
+pynance
+yfinance
+seaborn
+plotly
+requests
+ipython
+pytest
